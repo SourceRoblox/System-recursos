@@ -1,1 +1,4 @@
 
+local Check_iniciador = Instance.new("IntValue")
+Check_iniciador.Name = "Status"
+Check_iniciador.Parent = game.TextChatService
