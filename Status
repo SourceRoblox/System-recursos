@@ -1,4 +1,3 @@
-
-local Check_iniciador = Instance.new("IntValue")
-Check_iniciador.Name = "Status"
-Check_iniciador.Parent = game.TextChatService
+local Ox00000000101 = Instance.new("IntValue")
+Ox00000000101.Name = "Status"
+Ox00000000101.Parent = game.TextChatService
